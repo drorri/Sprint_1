@@ -1,2 +1,2 @@
 # Sprint_1
-Data Science - Sprin_1
+Data Science - Sprint_1
